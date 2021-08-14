@@ -8,3 +8,4 @@ Nama: [insert name][insert NIM]
 3. Nama : Eduard Sinaga (11201026)
 4. Nama : *Istaqom Wirawan Adi Pratama* (11201043)
 5. Nama : Dhaffa Agusrian Putra (11201020)
+6. Nama : M.Nawfal Alhadi (11201050)
